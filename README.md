@@ -39,10 +39,6 @@ fuzzy picture we will never make out
 - 🔰 [Twitter](https://twitter.com/VvphongVu)
 
 
-</br>
-</br>
-
-
 ## End
 #### Not only am I stupid; it's that I'm just smart enough to know how stupid I am. So I need to work harder than others.
 
