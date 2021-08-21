@@ -37,8 +37,8 @@ fuzzy picture we will never make out
 
 
 ### My Contacts
-- 🔰 [Twitter](https://twitter.com/VvphongVu)
-- 🔰 [HackerOne](https://hackerone.com/vtenpo?type=user)
+- 🔰 [Twitter](https://twitter.com/vtenpou)
+- 🔰 [HackerOne](https://hackerone.com/vtenpo)
 
 </br>
 
