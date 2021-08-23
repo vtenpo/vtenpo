@@ -1,6 +1,6 @@
 ## Who Am I
 
-#### I am **Vũ Viết Phong**, 20 years old boy who study in **Data Science**
+#### I'm **Phong**, 20 years old boy who study in **Data Science**
 <img hight="200" width="280" alt="GIF" align="right" src="https://github.com/VVP-dot/vtenpo/blob/main/ken.gif">
 
 
