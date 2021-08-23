@@ -19,7 +19,7 @@
 
 ## Introduce yourself
 
-#### I'm just an ordinary boy who is not tech-savvy, touches the computer for the first time to play CF at your house and likes the game's hack software. After watching all the great hacker movies, I started dreaming of becoming a Hacker. Gone are some useless courses and bad youtube videos that teach how to hack. People tell me I'm an idiot who doesn't even know how to reinstall windows.
+#### I'm just an ordinary boy who is not tech-savvy.
 
 <img hight="200" width="280" alt="GIF" align="right" src="https://github.com/VVP-dot/vtenpo/blob/main/kaneki%20crying.gif">
 
