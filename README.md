@@ -13,7 +13,6 @@
 ### Hobbies
 - 🔰 Gym Workout
 - 🔰 Watching Anime
-- 🔰 Explore The Physical World
 - 🔰 Explore The Internet
 
 
