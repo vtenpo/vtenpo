@@ -20,5 +20,4 @@ fuzzy picture we will never make out
 
 ### My Contacts
 - 🔰 [Twitter](https://twitter.com/vtenpou)
-- 🔰 [HackerOne](https://hackerone.com/vtenpo)
 
