@@ -4,12 +4,6 @@
 <img hight="200" width="280" alt="GIF" align="right" src="https://github.com/VVP-dot/vtenpo/blob/main/ken.gif">
 
 
-### Learning
-- 🔰 Data analysic
-- 🔰 Machine Learning
-- 🔰 Shell Scripting
-- 🔰 Bug Bounty
-
 It's one thing to question your mind; it's another to question your eyes and ears. 
 But, then again, isn't it all the same? Our senses just mediocre inputs to our brain? 
 Sure, we rely on them, trust they accurately portray the real world around us, but what 
@@ -20,5 +14,5 @@ fuzzy picture we will never make out
 
 ### My Contacts
 - 🔰 [Twitter](https://twitter.com/vtenpou)
-- 🔰 [HackerOne](https://hackerone.com/vtenpo)
+
 
