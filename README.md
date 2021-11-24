@@ -1,8 +1,7 @@
 ## Who Am I
 
-#### 20 years old boy who study in **Data Science**
 <img hight="160" width="220" alt="GIF" align="right" src="https://github.com/VVP-dot/vtenpo/blob/main/ken.gif">
-
+#### 20 years old boy who study in **Data Science**
 
 It's one thing to question your mind; it's another to question your eyes and ears. 
 But, then again, isn't it all the same? Our senses just mediocre inputs to our brain? 
